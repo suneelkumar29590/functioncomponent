@@ -1,0 +1,22 @@
+.ListIteams{
+    list-style-type: none;
+    padding: 30px;
+    align-self: auto;
+}
+.liiteams{
+    padding: 6px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30%;
+  
+}
+.text{
+    text-align: start;
+}
+.butt{
+    border-radius: 10px;
+    border: 1px solid red;
+    color: red;
+    margin-left: 50px;
+}
